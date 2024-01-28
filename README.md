@@ -1,2 +1,2 @@
-# Easyshop-1
+# EasyShop
 E-commerce Website using HTML,CSS.
